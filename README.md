@@ -4,7 +4,7 @@
 
 Yixuan (Marceline) Liu is a first year stat student from SUSTech (Southern University of Science and Technology).
 
-### Hwat's new？
+### What's new？
 
 In this site, updates about me will be maintained by myself.
 
