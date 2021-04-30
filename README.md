@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## What's new?
+
+### About Me
+
+Yixuan (Marceline) Liu is a first year stat student from SUSTech (Southern University of Science and Technology).
+
+### Hwat's new？
+
+In this site, updates about me will be maintained by myself.
 
 You can use the [editor on GitHub](https://github.com/marcellineliu/clone-webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
