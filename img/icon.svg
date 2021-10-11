@@ -1,10 +1,17 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>Layer 1</title>
-  <ellipse ry="3.5" rx="3.5" cy="10.5" cx="9" style="fill:#2f2f2f"/>
-  <rect height="7" width="4" y="7" x="5" style="fill:#2f2f2f"/>
-  <rect height="4" width="3" y="2" x="5" style="fill:#2f2f2f"/>
-  <ellipse ry="2" rx="2" cy="4" cx="8" style="fill:#2f2f2f"/>
- </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M58 249 c16 -17 16 -161 0 -177 -9 -9 -6 -12 17 -12 23 0 26 3 17 12
+-7 7 -12 41 -11 87 0 73 1 75 15 46 7 -16 23 -56 35 -88 12 -33 24 -55 28 -50
+4 4 21 44 37 88 l29 80 3 -73 c2 -46 -2 -79 -9 -88 -9 -12 -5 -14 27 -14 31 1
+36 3 22 11 -15 8 -18 24 -18 87 0 47 5 83 12 90 9 9 6 12 -14 12 -26 0 -41
+-26 -72 -127 -4 -13 -10 -23 -14 -23 -4 0 -19 33 -33 73 -23 65 -29 72 -55 75
+-23 3 -27 1 -16 -9z"/>
+</g>
 </svg>
